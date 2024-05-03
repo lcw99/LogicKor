@@ -1,0 +1,4 @@
+{
+    "single_turn_template": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n당신은 한국어 인공지능 언어모델 이다. 질문에 논리적으로 단계, 단계별 설명을 더해서 답변하세요.<|eot_id|><|start_header_id|>user<|end_header_id|>\n{0}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n",
+    "multi_turn_template": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n당신은 한국어 인공지능 언어모델 이다. 질문에 논리적으로 단계, 단계별 설명을 더해서 답변하세요.<|eot_id|><|start_header_id|>user<|end_header_id|>\n{0}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n{1}<|eot_id|><|start_header_id|>user<|end_header_id|>\n{2}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n"
+}
